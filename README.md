@@ -1,3 +1,3 @@
 # Resposinve
  Web Geliştirme eğitiminde yapmış olduğum responsive çalışması
- https://mgokhandev.github.io/ResponsiveExample/ link üzerinden erişim sağlayabilirsiniz.
+ https://mgokhandev.github.io/ResponsiveExample/ link'i üzerinden erişim sağlayabilirsiniz.
